@@ -14,5 +14,5 @@ fungsi create, read, update dan delete.
 - Setting your environment database (username/password) : config/database.php
 - Open browser : http://localhost/testelkecahya/
 
-## Techonogie Used
-testelkecahya menggunakan Framework CodeIgniter, Bootstrap, Javascript, CSS/HTML, XAMPP, MySQL
+## Techonogies Used
+testelkecahya menggunakan Framework CodeIgniter, Bootstrap, Datatables, Javascript, CSS/HTML, XAMPP, MySQL
